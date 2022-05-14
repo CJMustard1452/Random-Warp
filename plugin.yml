@@ -1,0 +1,19 @@
+---
+name: RandomWarp
+version: 0.6.9
+main: CJMustard1452\RandomWarp\Main
+api: 3.28.0
+author: CJMustard1452
+
+commands:
+  randomwarp:
+    aliases:
+      - rw
+    permission: randomwarp
+
+permissions:
+  randomwarp:
+    default: true
+  randomwarp.admin:
+    default: op
+...
