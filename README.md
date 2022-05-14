@@ -3,9 +3,9 @@ Allows Moderators/Administrators to set "random warp" boundaries with passwords
 
 - Permissions: 
 
- randomwarp.admin
+ randomwarp.admin - Op
  
- randomwarp
+ randomwarp - Default
  
  
 --- 
