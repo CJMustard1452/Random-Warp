@@ -1,2 +1,21 @@
-# Random-Warp
-Allows administrators to set random warp bounders with passwords
+# Random Warps
+Allows Moderators/Administrators to set "random warp" boundaries with passwords
+
+- Permissions: 
+
+ randomwarp.admin
+ 
+ randomwarp
+ 
+ 
+--- 
+
+- Commands
+
+/randomwarp (set) | (delete) | (tp password)
+
+---
+
+User: https://github.com/CJMustard1452
+
+Plugin: https://github.com/CJMustard1452/Random-Warp
